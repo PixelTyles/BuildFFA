@@ -1,0 +1,4 @@
+name: BuildFFASystem
+version: '1.0'
+main: de.pixeltyles.buildffasystem.BuildFFASystem
+api-version: '1.20'
